@@ -1,2 +1,3 @@
 # Directories
-.cryptvenv/
+cryptidvenv/
+__pycache__/
